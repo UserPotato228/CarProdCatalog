@@ -11,6 +11,4 @@
 * Customers
 
 В **Products** существуют следующие столбцы
-<ul>
-  <li><code style="color : gold">text</code></li>  
-<ul>
+* $${\color{yellow}<code>PK</code>\space}$$
