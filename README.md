@@ -12,5 +12,5 @@
 
 В **Products** существуют следующие столбцы
 <ul>
-  <li><p style="color: #ffff00">text</p></li>  
+  <li><code style="color : gold">text</code></li>  
 <ul>
