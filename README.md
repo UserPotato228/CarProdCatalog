@@ -4,6 +4,7 @@
 
 Так же запросы по созданию таблиц, записей в БД
 >CarProdCatalog/ComingSoon.frmt
+
 >CarProdCatalog/ComingSoon.frmt
 
 # Структура
@@ -22,7 +23,8 @@
 * **Desc** `text` `NOT NULL`
 * **Rack** `int` `NOT NULL`
 * **Column** `int` `NOT NULL`
-* **Row** `int` `NOT NULL` 
+* **Row** `int` `NOT NULL`
+
 Где 
 * ID - ИН товара
 * ID_category - ИН категории
@@ -37,6 +39,7 @@
 В **Categories**
 * `PK` **ID** `serial\autoincrement` 
 * **Name** `varchar(100)` `NOT NULL`
+
 Где 
 * ID - ИН категории
 * Name - Наименование
@@ -46,6 +49,7 @@
 * `FK > Products.ID` **ID_product** `int` `NOT NULL`
 * `FK > Customers.ID` **ID_customer** `int` `NOT NULL`
 * **Order_date** `date` `NOT NULL`
+
 Где 
 * ID - ИН заказа
 * ID_product - ИН товара
@@ -56,4 +60,8 @@
 * `PK` **ID** `serail\autoincrement`
 * **Full_name** `nvarhar(100)` `NOT NULL` 
 * **Phone_num** `int` `NOT NULL`
-*
+
+Где 
+* ID - ИН заказчика
+* Full_name - ФИО
+* Phone_num - Номер телефона
