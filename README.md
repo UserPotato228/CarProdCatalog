@@ -11,6 +11,6 @@
 * Customers
 
 В **Products** существуют следующие столбцы
-* $${\color{yellow}PK \color{white} **ID** \color{lightblue}serial(autoincrement)}$$   
+* $${\color{yellow}PK \color{white} ID \color{lightblue}serial}$$   
 *
 *
