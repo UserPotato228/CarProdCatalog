@@ -11,4 +11,12 @@
 * Customers
 
 В **Products** существуют следующие столбцы
-* $${\color{yellow}<code>PK</code>\space}$$
+* `PK` **ID** `serial\autoincrement`
+* `FK > Categories.ID` **ID_category** `int` `NOT NULL`
+* **Amount** `int` `NOT NULL`
+* **Cost** `int` `NOT NULL`
+* **Code** `int` `NOT NULL`
+* **Desc** `int` `NOT NULL`
+* **Rack** `int` `NOT NULL`
+* **Column** `int` `NOT NULL`
+* **Row** `int` `NOT NULL` 
