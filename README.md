@@ -4,10 +4,10 @@
 Так же запросы по созданию таблиц, записей в БД
 # Структура
 В БД **CarProdCatalog** находятся следующие таблицы
-*Products
-*Categories
-*Orders
-*Customers
+* Products
+* Categories
+* Orders
+* Customers
 
 В **Products** существуют следующие столбцы
 * $${\color{yellow}PK \color{white}}$$ **ID**  
