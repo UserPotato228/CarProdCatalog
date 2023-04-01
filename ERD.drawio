@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-18T08:21:14.707Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="T9ZAXodRsCJu3kscqdo6" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-01T16:47:51.472Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="AAeBtagqiCRQgFsqDqVx" version="21.1.2" type="github">
   <diagram name="Страница 1" id="2x9Wfhu7E4FkKwAU8HKC">
-    <mxGraphModel dx="1701" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" backgroundImage="{&quot;src&quot;:&quot;https://wompampsupport.azureedge.net/fetchimage?siteId=7575&amp;v=2&amp;jpgQuality=100&amp;width=700&amp;url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F017%2F133%2Fcover2.jpg&quot;,&quot;width&quot;:&quot;700&quot;,&quot;height&quot;:&quot;394&quot;,&quot;x&quot;:0,&quot;y&quot;:0}" math="0" shadow="0">
+    <mxGraphModel dx="1701" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="yKLj46cAwXF7KZjP4Sd2-6" value="Артикул" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="yKLj46cAwXF7KZjP4Sd2-1" vertex="1">
           <mxGeometry y="146" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zob5wcTq5DTHhbtXfYrZ-1" value="Характеристики" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" vertex="1" parent="yKLj46cAwXF7KZjP4Sd2-1">
+        <mxCell id="Zob5wcTq5DTHhbtXfYrZ-1" value="Характеристики" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="yKLj46cAwXF7KZjP4Sd2-1" vertex="1">
           <mxGeometry y="176" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yKLj46cAwXF7KZjP4Sd2-8" value="Стелаж" style="text;strokeColor=none;fillColor=default;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;whiteSpace=wrap;html=1;fontFamily=Comic Sans MS;" parent="yKLj46cAwXF7KZjP4Sd2-1" vertex="1">
