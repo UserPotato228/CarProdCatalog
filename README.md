@@ -65,3 +65,6 @@
 * ID - ИН заказчика
 * Full_name - ФИО
 * Phone_num - Номер телефона
+
+### foooter
+$$${\color{gray}Masunya will be no more}$$$
