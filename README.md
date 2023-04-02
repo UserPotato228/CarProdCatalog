@@ -67,4 +67,4 @@
 * Phone_num - Номер телефона
 
 ### foooter
- $${\color{gray}Masunya \space will \space be \space no \space more}$$
+ $${\color{gray}23:5"26:4"3:6"67:10\spece1:7"67:5\spece}$$
